@@ -1,4 +1,4 @@
-package lab2.q5;
+
 
 import java.util.Scanner;
 
