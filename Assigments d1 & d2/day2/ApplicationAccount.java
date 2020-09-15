@@ -1,4 +1,3 @@
-package lab2.q3;
 
 import java.util.*;
 
