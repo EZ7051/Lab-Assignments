@@ -1,4 +1,3 @@
-package q2;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -12,10 +11,10 @@ public class BookStoreApp {
 		
 		while (true) {
 
-			System.out.println("Enter “1”, to display the Books.");
-			System.out.println("Enter “2”, to order new books.");
-			System.out.println("Enter “3”, to sell books.");
-			System.out.println("Enter “0”, to exit the system.");
+			System.out.println("Enter â€œ1â€, to display the Books.");
+			System.out.println("Enter â€œ2â€, to order new books.");
+			System.out.println("Enter â€œ3â€, to sell books.");
+			System.out.println("Enter â€œ0â€, to exit the system.");
 			String ISBN,bookTitle;
 			int noOfCopies;
 
